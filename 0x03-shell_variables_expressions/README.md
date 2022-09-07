@@ -1,1 +1,1 @@
-My variables readme
+My shell variables readme
